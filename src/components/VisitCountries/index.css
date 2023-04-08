@@ -1,0 +1,28 @@
+.main_container {
+  background-color: #161624;
+  color: #f8fafc;
+  font-family: Roboto;
+  padding: 30px;
+  height: 100vh;
+}
+.countries_list {
+  list-style: none;
+  height: 300px;
+  overflow-y: scroll;
+
+  margin: auto;
+}
+.countries_heading {
+  padding-left: 30px;
+}
+.visited_countries_list {
+  list-style: none;
+  display: flex;
+  gap: 50px;
+}
+
+.no_countries {
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+}

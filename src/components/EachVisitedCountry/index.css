@@ -1,0 +1,18 @@
+.country_img {
+  height: 150px;
+}
+.country_details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.remove_button {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  height: 40px;
+  width: 100px;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  font-family: ROboto;
+}

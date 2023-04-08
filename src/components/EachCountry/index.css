@@ -1,0 +1,25 @@
+.country_item_container {
+  border: 1px solid #94a3b8;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  align-items: center;
+}
+.visit_button {
+  height: 40px;
+  width: 100px;
+  font-family: Roboto;
+  background-color: #3b82f6;
+  color: white;
+  border-style: none;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.country_name {
+  font-size: 18px;
+}
+.visitedText {
+  margin-right: 30px;
+  color: #334155;
+}
