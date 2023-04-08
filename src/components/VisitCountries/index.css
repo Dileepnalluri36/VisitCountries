@@ -3,7 +3,7 @@
   color: #f8fafc;
   font-family: Roboto;
   padding: 30px;
-  height: 100vh;
+  height: 100%;
 }
 .countries_list {
   list-style: none;
@@ -19,6 +19,7 @@
   list-style: none;
   display: flex;
   gap: 50px;
+  flex-wrap: wrap;
 }
 
 .no_countries {
